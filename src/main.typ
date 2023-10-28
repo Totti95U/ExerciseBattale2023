@@ -42,7 +42,7 @@ $ "MS"(n) = {A in "Mat"_bb(R)(n) | A "は魔方陣"} $
 正整数 $n$ に対し $"MS"(n)$ の $bb(R)$-線形空間としての次元 $dim "MS"(n)$ を求めよ
 ] <exer3>
 
-#exercise("まあまあ")[
+#exercise("やさしい")[
 魔方陣 $A$ に対し $sigma(A)$ は $A$ の固有値であることを示せ
 ] <exer4>
 
